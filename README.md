@@ -9,7 +9,6 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 - ✅ **Student CRUD**: Add, update, delete, and fetch student details.
 - 📝 **Attendance Management**: Record and retrieve student attendance.
 - 📊 **Gradebook Functionality**: Assign and track grades for students.
-- 🔐 **Authorization System**: Professors must authenticate using ID and login before accessing protected resources.
 - 🧪 **API Testing with Postman**: Endpoints tested and documented using Postman.
 - 💾 **MySQL Integration**: Uses a relational MySQL database with schema for students, professors, attendance, and grades.
 - 🌐 **RESTful API Design**: Follows standard REST conventions for clarity and maintainability.
