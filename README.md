@@ -60,7 +60,7 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 
 ## 📂 Project Structure
 
-src/
+src/main/java/com/almat/stud_ms/studentapp/
 
 ├── controller # REST controllers
 
@@ -70,9 +70,9 @@ src/
 
 ├── model # Entity definitions
 
-├── dto # Data Transfer Objects
-
 └── exception # Custom exception classes
+
+└── resources
 
 
 
