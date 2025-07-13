@@ -32,13 +32,12 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 - **Repository Pattern** – Separates data access logic and abstracts DB operations using Spring Data JPA.
 - **Service Layer Pattern** – Business logic is encapsulated in services to decouple it from controllers.
 - **Factory Pattern** *(Optional depending on your implementation)* – If you used dynamic object creation logic for DTO or response handling.
-- **DTO Pattern** – Clean separation of data exchange objects (DTOs) from internal entity models.
 - **Dependency Injection** – Built-in via Spring’s `@Autowired` and constructor injection.
 
 ### ⚙️ Java Features Used
 
 - **Generics** – Used in repositories and service layers to create reusable methods and type-safe operations.
-- **Lombok (if used)** – Annotations like `@Getter`, `@Setter`, `@AllArgsConstructor`, etc., reduce boilerplate code.
+- **Lombok** – Annotations like `@Getter`, `@Setter`, `@AllArgsConstructor`, etc., reduce boilerplate code.
 - **Streams & Lambda Expressions** – For cleaner and functional-style data manipulation.
 - **Optional<T>** – Safe handling of null values from repository queries.
 - **Java Annotations** – Custom and built-in annotations (like `@RestController`, `@Service`, `@RequestMapping`, etc.) used extensively.
@@ -53,7 +52,7 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 - **MySQL**
 - **Postman**
 - **Maven**
-- *(Optional)* Lombok
+- ** Lombok
 
 ---
 
