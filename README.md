@@ -31,7 +31,6 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 
 - **Repository Pattern** – Separates data access logic and abstracts DB operations using Spring Data JPA.
 - **Service Layer Pattern** – Business logic is encapsulated in services to decouple it from controllers.
-- **Factory Pattern** *(Optional depending on your implementation)* – If you used dynamic object creation logic for DTO or response handling.
 - **Dependency Injection** – Built-in via Spring’s `@Autowired` and constructor injection.
 
 ### ⚙️ Java Features Used
@@ -52,7 +51,7 @@ This is a Java Spring Boot-based **Student Management System** for efficiently m
 - **MySQL**
 - **Postman**
 - **Maven**
-- ** Lombok
+- **Lombok**
 
 ---
 
